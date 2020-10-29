@@ -1,0 +1,27 @@
+.alignment-bar {
+    padding-top: 30px !important;
+    padding-left: 125px !important;
+    padding-right: 125px !important; 
+}
+.navfont{
+  font-family: 'Futura', sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+}
+.align-dwn {
+  margin-top: -5px;
+}
+.sayhi {
+  /*padding: 150px 0;*/
+  text-align: center;
+}
+.w:hover, .a:hover, .r:hover{
+  border-bottom: 1px solid black;
+  border-top: 1px solid black;
+}
+@media only screen and (min-width: 100px) and (max-width: 800px) {
+  .alignment-bar {
+    padding-left: 20px !important;
+    padding-right: 25px !important;
+  }
+}
