@@ -4,16 +4,11 @@
     padding-right: 125px !important; 
 }
 .navfont{
-  font-family: 'Futura', sans-serif;
-  text-transform: uppercase;
+  font-family: 'Nunito Sans', sans-serif;
   text-align: center;
 }
 .align-dwn {
   margin-top: -5px;
-}
-.sayhi {
-  /*padding: 150px 0;*/
-  text-align: center;
 }
 .w:hover, .a:hover, .r:hover{
   border-bottom: 1px solid black;

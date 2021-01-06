@@ -1,0 +1,80 @@
+.sayhi {
+    padding: 150px 0;
+    text-align: center;
+    font-family: 'NewYork-Bold';
+    font-size: 2rem;
+  }
+  .typedhi, .learnmore {
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.2rem;
+  }
+  .learnmore {
+    font-size: 0.9rem;
+    font-family: 'Nunito Sans', sans-serif;
+    color: grey;
+    margin-top: 20px;
+  }
+  .pic-align {
+    margin-top: 200px;
+  }
+  .image {
+    position: relative;
+    width: 450px;
+    margin: 0 auto;
+  }
+  .image-img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 450px;
+    height: 425px;
+    border-radius: 25px;
+  }
+  .img-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.50s;
+  }
+  .img-overlay-blur {
+    backdrop-filter: blur(5px);
+  }
+  .img-overlay:hover {
+    opacity: 1;
+  }
+  .img-title { 
+    font-size: 1.0em;
+    font-family: 'NewYork-BoldItalic';
+  }
+  .img-description {
+    font-size: 0.5em;
+    margin-top: 0.50em;
+    font-family: 'Nunito Sans', sans-serif;
+  }
+  .rowC {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  @media only screen and (min-width: 1001px) {
+    .img-title {
+      margin-top: 50%;
+    }
+    .margin-align {
+      margin-left: -25px;
+    }
+  }
+  @media only screen and (max-width: 1000px) {
+    .rowC {
+      display: block;
+    }
+  }

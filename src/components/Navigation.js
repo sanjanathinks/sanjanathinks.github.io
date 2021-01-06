@@ -1,15 +1,20 @@
-import * as ReactBootStrap from 'react-bootstrap';
+{/*import * as ReactBootStrap from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import React, {Component} from 'react';
 import m from './main.png';
 import Nav from './Nav.css';
+import {LinkContainer} from 'react-router-bootstrap';
+import { BrowserRouter, Route, Switch, Link } from 'react-router-dom';
+import Abt from './About';
 
 class Navbar extends Component {
     render() {
         return (
-            <ReactBootStrap.Navbar bg="none" expand="md" className = "alignment-bar">
-            <ReactBootStrap.Navbar.Brand href="#work">
-              <img
+        <BrowserRouter>
+        <ReactBootStrap.Navbar bg="none"className = "alignment-bar">
+        <LinkContainer to = "/">
+        <ReactBootStrap.Navbar.Brand>
+        <img
               src = {m}
               width = "100"
               height = "90"
@@ -17,14 +22,22 @@ class Navbar extends Component {
               alt = "Sanjana's personal website"
               style={{position: 'inline-block', bottom: -10}}
               />
-            </ReactBootStrap.Navbar.Brand>
-              <ReactBootStrap.Nav className="navfont ml-auto">
-                <ReactBootStrap.Nav.Link href="#work" className = "w">Work</ReactBootStrap.Nav.Link>
-                <ReactBootStrap.Nav.Link href="#about" className = "a">About</ReactBootStrap.Nav.Link>
-                <ReactBootStrap.Nav.Link href="#resume" className = "r">Resume</ReactBootStrap.Nav.Link>
-              </ReactBootStrap.Nav>
-          </ReactBootStrap.Navbar>
+        </ReactBootStrap.Navbar.Brand>
+        </LinkContainer>
+        <ReactBootStrap.Nav className="ml-auto navfont">
+        <LinkContainer to = "/">
+        <ReactBootStrap.Nav.Link className = "w">Work</ReactBootStrap.Nav.Link>
+        </LinkContainer>
+        <LinkContainer to = "/about">
+        <ReactBootStrap.Nav.Link className = "a">About</ReactBootStrap.Nav.Link>
+        </LinkContainer>
+        <LinkContainer to = "/resume">
+        <ReactBootStrap.Nav.Link href="#resume" className = "r">Resume</ReactBootStrap.Nav.Link>
+        </LinkContainer>
+      </ReactBootStrap.Nav>
+    </ReactBootStrap.Navbar>
+    </BrowserRouter>
         );
     }
 }
-export default Navbar;
+export default Navbar;*/}
