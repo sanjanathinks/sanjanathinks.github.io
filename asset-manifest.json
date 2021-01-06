@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/sanjanathinks.github.io/static/css/main.feb07223.chunk.css",
+    "main.js": "/sanjanathinks.github.io/static/js/main.7f7ce4f0.chunk.js",
+    "main.js.map": "/sanjanathinks.github.io/static/js/main.7f7ce4f0.chunk.js.map",
+    "runtime-main.js": "/sanjanathinks.github.io/static/js/runtime-main.694b68d3.js",
+    "runtime-main.js.map": "/sanjanathinks.github.io/static/js/runtime-main.694b68d3.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/sanjanathinks.github.io/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.700df3f9.chunk.js": "/sanjanathinks.github.io/static/js/2.700df3f9.chunk.js",
+    "static/js/2.700df3f9.chunk.js.map": "/sanjanathinks.github.io/static/js/2.700df3f9.chunk.js.map",
+    "index.html": "/sanjanathinks.github.io/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/sanjanathinks.github.io/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.feb07223.chunk.css.map": "/sanjanathinks.github.io/static/css/main.feb07223.chunk.css.map",
+    "static/js/2.700df3f9.chunk.js.LICENSE.txt": "/sanjanathinks.github.io/static/js/2.700df3f9.chunk.js.LICENSE.txt",
+    "static/media/1001.e9ef78db.png": "/sanjanathinks.github.io/static/media/1001.e9ef78db.png",
+    "static/media/Sanjana_Pendharkar.7fb1deca.pdf": "/sanjanathinks.github.io/static/media/Sanjana_Pendharkar.7fb1deca.pdf",
+    "static/media/email.a3cff553.png": "/sanjanathinks.github.io/static/media/email.a3cff553.png",
+    "static/media/header_jamit.75b7df77.png": "/sanjanathinks.github.io/static/media/header_jamit.75b7df77.png",
+    "static/media/header_tna.0c95b5fe.png": "/sanjanathinks.github.io/static/media/header_tna.0c95b5fe.png",
+    "static/media/jamit.4807fbed.png": "/sanjanathinks.github.io/static/media/jamit.4807fbed.png",
+    "static/media/ji1.2a389741.png": "/sanjanathinks.github.io/static/media/ji1.2a389741.png",
+    "static/media/ji2.d68bae80.png": "/sanjanathinks.github.io/static/media/ji2.d68bae80.png",
+    "static/media/ji3.d3e9aa2a.png": "/sanjanathinks.github.io/static/media/ji3.d3e9aa2a.png",
+    "static/media/main.c8b75d21.png": "/sanjanathinks.github.io/static/media/main.c8b75d21.png",
+    "static/media/style_tna.3dcfcb5b.png": "/sanjanathinks.github.io/static/media/style_tna.3dcfcb5b.png",
+    "static/media/tna.cac438d0.png": "/sanjanathinks.github.io/static/media/tna.cac438d0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.694b68d3.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.700df3f9.chunk.js",
+    "static/css/main.feb07223.chunk.css",
+    "static/js/main.7f7ce4f0.chunk.js"
+  ]
+}
