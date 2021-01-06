@@ -18,7 +18,7 @@ class About extends Component{
                 <br></br>
                 <h2 className="header">
                 <Typed 
-      strings={["A lil' bit about me"]}
+      strings={["A lil' bit about me."]}
       typeSpeed={70}>
     </Typed>
                 </h2>
