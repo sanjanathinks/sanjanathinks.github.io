@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/sanjanathinks.github.io/static/css/main.feb07223.chunk.css",
-    "main.js": "/sanjanathinks.github.io/static/js/main.7f7ce4f0.chunk.js",
-    "main.js.map": "/sanjanathinks.github.io/static/js/main.7f7ce4f0.chunk.js.map",
+    "main.js": "/sanjanathinks.github.io/static/js/main.e2236bf0.chunk.js",
+    "main.js.map": "/sanjanathinks.github.io/static/js/main.e2236bf0.chunk.js.map",
     "runtime-main.js": "/sanjanathinks.github.io/static/js/runtime-main.694b68d3.js",
     "runtime-main.js.map": "/sanjanathinks.github.io/static/js/runtime-main.694b68d3.js.map",
     "static/css/2.20aa2d7b.chunk.css": "/sanjanathinks.github.io/static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.700df3f9.chunk.js": "/sanjanathinks.github.io/static/js/2.700df3f9.chunk.js",
-    "static/js/2.700df3f9.chunk.js.map": "/sanjanathinks.github.io/static/js/2.700df3f9.chunk.js.map",
+    "static/js/2.31cebf3e.chunk.js": "/sanjanathinks.github.io/static/js/2.31cebf3e.chunk.js",
+    "static/js/2.31cebf3e.chunk.js.map": "/sanjanathinks.github.io/static/js/2.31cebf3e.chunk.js.map",
     "index.html": "/sanjanathinks.github.io/index.html",
     "static/css/2.20aa2d7b.chunk.css.map": "/sanjanathinks.github.io/static/css/2.20aa2d7b.chunk.css.map",
     "static/css/main.feb07223.chunk.css.map": "/sanjanathinks.github.io/static/css/main.feb07223.chunk.css.map",
-    "static/js/2.700df3f9.chunk.js.LICENSE.txt": "/sanjanathinks.github.io/static/js/2.700df3f9.chunk.js.LICENSE.txt",
+    "static/js/2.31cebf3e.chunk.js.LICENSE.txt": "/sanjanathinks.github.io/static/js/2.31cebf3e.chunk.js.LICENSE.txt",
     "static/media/1001.e9ef78db.png": "/sanjanathinks.github.io/static/media/1001.e9ef78db.png",
     "static/media/Sanjana_Pendharkar.7fb1deca.pdf": "/sanjanathinks.github.io/static/media/Sanjana_Pendharkar.7fb1deca.pdf",
     "static/media/email.a3cff553.png": "/sanjanathinks.github.io/static/media/email.a3cff553.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.694b68d3.js",
     "static/css/2.20aa2d7b.chunk.css",
-    "static/js/2.700df3f9.chunk.js",
+    "static/js/2.31cebf3e.chunk.js",
     "static/css/main.feb07223.chunk.css",
-    "static/js/main.7f7ce4f0.chunk.js"
+    "static/js/main.e2236bf0.chunk.js"
   ]
 }
